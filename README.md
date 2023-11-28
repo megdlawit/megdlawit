@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megdlawit
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ComputerScience
+- 🌱 I’m software engineer 
 - 📫 How to reach me megdalenea@gmail.com
 
 <!---
